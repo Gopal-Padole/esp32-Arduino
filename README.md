@@ -1,2 +1,2 @@
-# myfirst-projec
+# myfirst-project
 Simple Arduino code
